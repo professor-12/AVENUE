@@ -1,0 +1,58 @@
+[
+{
+    "id": 1,
+    "name": "Green Elder",
+    "description": " A green elder pot could be a decorative or functional pot specifically chosen or crafted for growing elder plants, adding a touch of color and style to the cultivation of these botanicals. The choice of a green hue may align with natural aesthetics or personal preferences in garden or interior decor.",
+    "price": "$210.99",
+    "image": "img/img-01.png"
+  },
+  {
+    "id": 2,
+    "name": "White cement isle",
+    "description": "The round clatter pot was designed to beautify a work space, home, public space. The white patterns and ripples were handmade , giving the pot a beautiful and aesthetic vibe. It is suitable for any home decor as the colors are vibrant and astonishing.",
+    "price": "$320",
+    "image": "img/img-02.png"
+  },
+  {
+    "id": 3,
+    "name": "Sicily Cylinder pot",
+    "description": "The round clatter pot was designed to beautify a work space, home, public space. The white patterns and ripples were handmade , giving the pot a beautiful and aesthetic vibe. It is suitable for any home decor as the colors are vibrant and astonishing.",
+    "price": "$160",
+    "image": "img/img-03.png"
+  },
+ {
+    "id": 4,
+    "name": "Round clatter pot",
+    "description": "The round clatter pot was designed to beautify a work space, home, public space. The white patterns and ripples were handmade , giving the pot a beautiful and aesthetic vibe. It is suitable for any home decor as the colors are vibrant and astonishing.",
+    "price": "$550",
+    "image": "img/img-04.png"
+  },
+  {
+    "id": 5,
+    "name": "Water pot",
+    "description": "The round clatter pot was designed to beautify a work space, home, public space. The white patterns and ripples were handmade , giving the pot a beautiful and aesthetic vibe. It is suitable for any home decor as the colors are vibrant and astonishing.",
+    "price": "$60.99",
+    "image": "img/img-05.png"
+  },
+  {
+    "id": 6,
+    "name": "Handmade animal pot",
+    "description": "The round clatter pot was designed to beautify a work space, home, public space. The white patterns and ripples were handmade , giving the pot a beautiful and aesthetic vibe. It is suitable for any home decor as the colors are vibrant and astonishing.",
+    "price": "$235",
+    "image": "img/img-06.png"
+  },
+ {
+    "id": 7,
+    "name": "Basket pot",
+    "description": "The round clatter pot was designed to beautify a work space, home, public space. The white patterns and ripples were handmade , giving the pot a beautiful and aesthetic vibe. It is suitable for any home decor as the colors are vibrant and astonishing.",
+    "price": "$199",
+    "image": "img/img-07.png"
+  },
+  {
+    "id": 8,
+    "name": "Brownie pot",
+    "description": "The round clatter pot was designed to beautify a work space, home, public space. The white patterns and ripples were handmade , giving the pot a beautiful and aesthetic vibe. It is suitable for any home decor as the colors are vibrant and astonishing.",
+    "price": "$220",
+    "image": "img/img-08.png"
+  }
+]
